@@ -1,0 +1,14 @@
+{
+  "name": "hacknight",
+  "version": "1.0.0",
+  "description": "npm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.19.0"
+  }
+}
