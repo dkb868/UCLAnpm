@@ -9,6 +9,7 @@
   "author": "Ben",
   "license": "ISC",
   "dependencies": {
-    "cheerio": "^0.19.0"
+    "cheerio": "^0.19.0",
+    "request-promise": "^1.0.2"
   }
 }
